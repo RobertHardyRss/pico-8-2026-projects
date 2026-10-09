@@ -1,7 +1,7 @@
 pico-8 cartridge // http://www.pico-8.com
 version 43
 __lua__
-f`unction _init()
+function _init()
 
  player = {
 		 sp=1,
